@@ -19,7 +19,7 @@ This artifact demonstrates my understanding of algorithmic efficiency and data m
 The final artifact focuses on database design and integration. It highlights my ability to build, manage, and handle databases effectively, including implementing CRUD functionality, data persistence, and security best practices.
 
 
-## Artifact Links
+## Artifact README Links
 [Software Design and Engineering Artifact](7-1_FinalProjectMilestonesEnhancementONE499/7-1_FinalProjectMilestones/README.md)
 
 [Algorithms and Data Structures Artifact](7-1_FinalProjectMilestonesEnhancementTWO499/7-1_FinalProjectMilestones/README.md)
