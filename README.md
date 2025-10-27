@@ -21,7 +21,9 @@ The final artifact focuses on database design and integration. It highlights my 
 
 ## Artifact Links
 [Software Design and Engineering Artifact](7-1_FinalProjectMilestonesEnhancementONE499/7-1_FinalProjectMilestones/README.md)
+
 [Algorithms and Data Structures Artifact](7-1_FinalProjectMilestonesEnhancementTWO499/7-1_FinalProjectMilestones/README.md)
+
 [Databases Artifact](7-1_FinalProjectMilestonesEnhancementTHREE499/7-1_FinalProjectMilestones/README.md)
 
 
