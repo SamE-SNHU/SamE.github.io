@@ -1,0 +1,11 @@
+# Code Review Overview
+This folder contains my written code review for the CS 499 Capstone Project based on my original CS 330 Computer Graphics and Visualization Final Project. This written version serves in place of a recorded video review because of anxiety related to video presentation.
+
+# Written Code Review Statement
+This written code review serves as a substitute for a recorded code review session. Due to ongoing anxiety related to video recording, I was unable to complete the video portion of the assignment. However, I have conducted a complete written code review of my selected artifact, following the CS 499 Capstone rubric. This report demonstrates my ability to evaluate and improve code quality, identify areas of strength, and make recommendations for enhancement.
+
+# Artifact Description
+In this review, I examined my original CS 330 project before making any changes. The project used C++ and OpenGL to render a 3D scene with lighting and textures. While functional, the original version had several areas for improvement. The code was not well organized, lacked consistent formatting, and included repeated logic that could be simplified into reusable functions. The absence of detailed comments made it difficult to follow complex mathematical operations, and object data was managed in a way that limited flexibility for future updates.
+
+# Identified Issues and Recommendations
+The code review identified a need for improved data management, modular design, and error handling. These issues will later guide the enhancement process in future milestones, helping me strengthen the overall structure and performance of the program. This written code review reflects my ability to critically analyze my own work, identify areas for improvement, and plan for professional level refinements.
